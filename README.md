@@ -1,6 +1,6 @@
 # Resumize-ReadMe
 
-##Features:
+## Features:
 User Authentication
 S3 File Management
 Automatic Email Responses
